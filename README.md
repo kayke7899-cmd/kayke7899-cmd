@@ -35,10 +35,7 @@ Este é um sistema simples em Python que permite o cadastro de usuários e ofere
 
 ---
 
-## 📚 Prática diária
 
-### 🔄 [exercicios-python](https://github.com/kayke7899-cmd/exercicios-python) *(Verifique o link)*
-Repositório dedicado à prática diária dos meus estudos de Python, organizado por tema (lógica condicional, dicionários, funções, listas, banco de dados). Meu espaço de consistência e evolução contínua.
 
 ---
 
