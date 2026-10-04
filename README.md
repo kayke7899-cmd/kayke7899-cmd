@@ -18,17 +18,14 @@ Futuro desenvolvedor **Back-End** com foco em **Java**, cursando Análise e Dese
 
 ## 📌 Projetos em destaque
 
-### 🧪 Sistema de Gestão do Laboratório de Enfermagem (Java)
+### 🧪 [Sistema de Gestão do Laboratório de Enfermagem (Java)](https://github.com/kayke7899-cmd/Sistema-de-laboratorio-)
 
-Sistema de console em **Java** para gerenciar um laboratório de enfermagem: agendamento de aulas práticas, solicitação de kits de insumos, controle de estoque e checklists de conferência.
+Projeto acadêmico **em grupo (5 integrantes)**, onde atuei no desenvolvimento e na documentação. É um sistema de console em **Java** para gerenciar um laboratório de enfermagem: agendamento de aulas práticas, solicitação de kits de insumos, controle de estoque e checklists de conferência.
 
 - **Perfis de usuário** com herança e aprovação de cadastro: Professor, Aluno, Equipe de Laboratório e Coordenação
 - **Regras de negócio** implementadas: antecedência mínima de 7 dias, conflito de horários, capacidade da sala, alerta de estoque mínimo e manutenção de equipamentos
 - **Arquitetura em camadas** (`model`, `repository`, `service`) com enums, encapsulamento e validação de entrada
-- **Conceitos aplicados:** POO, coleções, streams e a API `java.time`
-
-<!-- Quando subir o código para um repositório, transforme o título acima em link:
-     ### 🧪 [Sistema de Gestão do Laboratório de Enfermagem (Java)](URL-DO-REPOSITORIO) -->
+- **Conceitos aplicados:** POO, coleções, `java.time` e modelagem UML (casos de uso, regras de negócio e requisitos)
 
 ### 🗂️ [Projetos de Cadastros](https://github.com/kayke7899-cmd/Projetos-de-cadastros)
 
