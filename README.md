@@ -1,4 +1,4 @@
-# Olá, sou o Kayke 👋
+# Olá, sou o Kayke 
 
 Futuro desenvolvedor **Back-End** com foco em **Java**, cursando Análise e Desenvolvimento de Sistemas. Gosto de construir APIs robustas, modelar dados e escrever lógica de servidor. Estou construindo projetos reais para consolidar minhas habilidades e aberto a oportunidades!
 
