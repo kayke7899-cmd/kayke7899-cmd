@@ -1,13 +1,14 @@
-# 👨‍💻 Kayke Augusto
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Kayke+Augusto!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+Linux+%7C+Tecnologia;Sempre+aprendendo+e+evoluindo." alt="Apresentação animada de Kayke" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=60&lines=Kayke%20Augusto;Back-end%20Java%20%7C%20ADS%20em%20curso;Aberto%20a%20est%C3%A1gio%20em%20TI" alt="Kayke Augusto — Back-end Java, estudante de Análise e Desenvolvimento de Sistemas, aberto a estágio em TI" />
 
-<br>
+**Estudante de Análise e Desenvolvimento de Sistemas · Foco em Back-end com Java**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayke7899-cmd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-augusto-473264413)
+<!-- TODO: troque SEU-EMAIL@exemplo.com pelo seu e-mail real nos 2 badges abaixo (aqui e no fim do arquivo) -->
+<a href="https://www.linkedin.com/in/kayke-augusto-473264413"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Kayke Augusto" /></a>
+<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Enviar e-mail para Kayke Augusto" /></a>
+<a href="https://github.com/kayke7899-cmd?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios de Kayke Augusto no GitHub" /></a>
+<img src="https://img.shields.io/badge/Aberto_a_est%C3%A1gio_em_TI-9ECE6A?style=flat-square" alt="Aberto a oportunidades de estágio em TI" />
 
 </div>
 
@@ -16,27 +17,35 @@
 ## 🧠 Sobre mim
 
 ```java
-public class Desenvolvedor {
+import java.util.List;
 
-    String nome = "Kayke Augusto";
-    String formacao = "Análise e Desenvolvimento de Sistemas";
-    String foco = "Tecnologia e Desenvolvimento";
-    String linguagemPrincipal = "Java";
-    String objetivo = "Estágio na área de TI";
+public final class Desenvolvedor {
 
-    public void apresentar() {
-        System.out.println("Sempre aprendendo, praticando e evoluindo.");
+    private final String nome;
+    private final String foco;
+    private final List<String> estudandoAgora;
+
+    public Desenvolvedor() {
+        this.nome = "Kayke Augusto";
+        this.foco = "Back-end com Java";
+        this.estudandoAgora = List.of("Collections", "Spring Boot", "JUnit");
+    }
+
+    public String apresentar() {
+        return "%s | %s | estudando %s"
+                .formatted(nome, foco, String.join(", ", estudandoAgora));
+    }
+
+    public boolean disponivelParaEstagio() {
+        return true;
     }
 }
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em tecnologia, programação e resolução de problemas.
-
-Atualmente, estou desenvolvendo meus conhecimentos em **Java, lógica de programação e Programação Orientada a Objetos**, além de estudar Linux e fundamentos de infraestrutura e redes.
-
-Também tenho interesse em **segurança da informação e hacking ético**, áreas nas quais pretendo aprofundar meus conhecimentos.
-
-Busco uma oportunidade de **estágio em Tecnologia da Informação** para aplicar o que venho aprendendo, adquirir experiência prática e contribuir com o desenvolvimento de soluções.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software.
+- ☕ Estudo **Java e Programação Orientada a Objetos** construindo sistemas de verdade: arquitetura em camadas (`model` → `repository` → `service`), regras de negócio e validações.
+- 🐧 Tenho interesse em **Linux, redes e segurança da informação** — quero entender o caminho que o código percorre até rodar em produção.
+- 🎯 **Busco um estágio em TI** para aplicar o que estudo, aprender com um time e evoluir como profissional.
 
 ---
 
@@ -44,205 +53,110 @@ Busco uma oportunidade de **estágio em Tecnologia da Informação** para aplica
 
 <div align="center">
 
-### Linguagens e desenvolvimento
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js&theme=dark" alt="Linguagens: Java, Python, HTML, CSS e JavaScript" />
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css&theme=dark" />
-
-### Sistemas e ferramentas
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas e ambiente: Linux, Git, GitHub e VS Code" />
 
 </div>
 
-### Conhecimentos em desenvolvimento
-
-- Lógica de programação.
-- Programação Orientada a Objetos (POO).
-- Encapsulamento, herança e polimorfismo.
-- Sobrecarga de métodos e construtores.
-- Coleções e estruturas de dados.
-- Organização de aplicações em camadas.
-- Modelagem UML e regras de negócio.
-- Versionamento de código com Git e GitHub.
+**Conceitos que aplico nos projetos:** POO (encapsulamento, herança e polimorfismo) · sobrecarga de métodos e construtores · estruturas de dados e Collections · organização em camadas · modelagem UML e regras de negócio · versionamento com Git e GitHub.
 
 ---
 
 ## 🚀 Projetos
 
-Projetos acadêmicos e pessoais desenvolvidos para praticar programação, lógica e organização de aplicações.
+### 🧪 Destaque — Sistema de Gestão de Laboratório de Enfermagem
 
-### ☕ Java
+`Java` `POO` `UML` `Arquitetura em camadas` `Projeto em equipe`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+Projeto acadêmico desenvolvido em uma **equipe de 5 pessoas** para gerenciar a rotina de um laboratório de enfermagem: da reserva da sala pelo professor até a liberação dos materiais pela equipe técnica.
 
-### 🧪 Sistema de Gestão de Laboratório
+**O que o sistema resolve**
 
-Projeto acadêmico desenvolvido em equipe para gerenciamento de um laboratório de enfermagem.
+- 📅 **Agendamento de aulas práticas** com bloqueio de horário duplicado (regra de negócio RN02).
+- 📦 **Solicitação de kits de insumos** vinculada a uma aula previamente agendada.
+- ✅ **Checklist de preparação** — conferência de materiais, teste de equipamentos e liberação da sala.
+- 📊 **Controle de estoque** com entrada, saída e baixa de materiais.
+- 🔐 **Aprovação de cadastros e exceções** pela coordenação, com 4 perfis de acesso: professor, equipe de laboratório, coordenação e aluno.
 
-**Funcionalidades:**
-- Agendamento de aulas práticas.
-- Solicitação de kits e materiais.
-- Controle de estoque.
-- Gerenciamento de usuários.
-- Validações e regras de negócio.
+**Como foi construído**
 
-**Tecnologias:** Java, POO e UML.
+- Separação de responsabilidades em camadas: `model/` → `repository/` → `service/` → `Main.java`.
+- Modelagem UML com **5 casos de uso documentados (UC01–UC05)**, atores, pré-condições e fluxos principal e alternativos.
+- Regras de negócio e validações concentradas na camada de serviço, fora da interface.
 
-[![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Sistema-de-laboratorio-)
+**Meu papel:** desenvolvimento e documentação, junto com os outros 4 integrantes.
 
-    </td>
-    <td width="50%" valign="top">
-
-### 📚 Sistema de Biblioteca
-
-Aplicação de console para cadastro e gerenciamento de livros.
-
-**Funcionalidades:**
-- Cadastro de livros.
-- Controle de estoque.
-- Encapsulamento.
-- Sobrecarga de construtores.
-- Sobrecarga de métodos.
-
-**Tecnologias:** Java e POO.
-
-[![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Biblioteca)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 👨‍💼 Sistema de Funcionários
-
-Aplicação de console para cadastro de funcionários e gerenciamento de reajustes salariais.
-
-**Funcionalidades:**
-- Cadastro de funcionários.
-- Registro de salários.
-- Reajustes por percentual.
-- Reajustes por valor fixo.
-- Registro dos motivos dos reajustes.
-
-**Tecnologias:** Java e POO.
-
-[![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Funcion-rios)
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🐍 Projetos em Python
-
-Projetos desenvolvidos para praticar lógica de programação e estruturas de controle.
-
-**Projetos:**
-- Sistema de cadastro de usuários.
-- Sistema de acesso administrativo.
-
-**Tecnologia:** Python.
-
-[![Repositórios](https://img.shields.io/badge/Ver_projetos-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd?tab=repositories)
-
-    </td>
-  </tr>
-</table>
+📂 **[Ver código](https://github.com/kayke7899-cmd/Sistema-de-laboratorio-)** · 📄 **[Ver documentação e casos de uso](https://github.com/kayke7899-cmd/Sistema-de-laboratorio-#readme)**
 
 ---
 
-## 📊 Estatísticas do GitHub
+### ☕ Outros projetos em Java
+
+#### 📚 Biblioteca — controle de acervo
+
+Aplicação de console para cadastro e gerenciamento de livros, com controle de exemplares disponíveis. Usei **encapsulamento** para proteger os dados do acervo e **sobrecarga de construtores e métodos** para permitir diferentes formas de cadastrar um livro.
+
+📂 **[Ver código](https://github.com/kayke7899-cmd/Biblioteca)**
+
+#### 👨‍💼 Funcionários — reajustes salariais
+
+Aplicação para cadastro de funcionários e aplicação de reajustes salariais **por percentual ou por valor fixo**, registrando o motivo de cada alteração para manter o histórico rastreável.
+
+📂 **[Ver código](https://github.com/kayke7899-cmd/Funcion-rios)**
+
+---
+
+### 🌐 Front-end
+
+#### 👟 Lura Tênis — site institucional
+
+Site estático de 4 páginas (home, catálogo, sobre e suporte) feito com **HTML5 e CSS3 puro**, sem frameworks. Tema inteiro centralizado em variáveis CSS (`:root`), CSS modularizado por página, layout fluido com `clamp()` / `min()` / `aspect-ratio`, imagens em WebP e suporte a `prefers-reduced-motion` para acessibilidade.
+
+📂 **[Ver código](https://github.com/kayke7899-cmd/Lura_Tenis)**
+
+#### 🎓 DevSchool — cadastro e login
+
+Interface de cadastro e login de uma plataforma de ensino de programação. HTML semântico, layout de duas colunas em **Flexbox**, responsivo, com estados de `hover` e `focus` nos campos do formulário.
+
+📂 **[Ver código](https://github.com/kayke7899-cmd/Login_e_Cadastro)**
+
+---
+
+### 🐍 Python — lógica e estruturas de controle
+
+| Projeto | O que pratica |
+| --- | --- |
+| [Sistema de cadastro de usuário](https://github.com/kayke7899-cmd/sistema_de_cadastro_de_usuario) | Cadastro e validação de dados em console |
+| [Sistema de acesso administrativo](https://github.com/kayke7899-cmd/-Sistema-de-Acesso-Administrativo) | Controle de acesso e autenticação de administrador |
+| [Projetos de cadastro](https://github.com/kayke7899-cmd/Projetos-de-cadastros) | Exercícios de lógica, laços e estruturas de decisão |
+
+📁 **[Todos os repositórios →](https://github.com/kayke7899-cmd?tab=repositories)**
+
+---
+
+## 🎯 Foco de estudo
+
+| ☕ Agora | 🚀 Em seguida | 🧭 Mais adiante |
+| --- | --- | --- |
+| Java Collections | Spring Boot e APIs REST | Segurança de aplicações |
+| Maven e organização de build | Testes automatizados com JUnit | Administração de Linux |
+| JavaScript e manipulação do DOM | Banco de dados e SQL | Shell Script e redes |
+
+**Base já construída:** fundamentos de Java · POO (encapsulamento, herança e polimorfismo) · lógica de programação · HTML e CSS · Git e GitHub · fundamentos de Linux.
+
+---
+
+## 📊 Linguagens que mais uso
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayke7899-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayke7899-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=kayke7899-cmd&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayke7899-cmd&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=1A1B26&title_color=7AA2F7&text_color=A9B1D6" alt="Linguagens mais usadas: Java 59%, CSS 14%, HTML 13%, Python 12% e JavaScript 3%" />
 
 </div>
 
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayke7899-cmd&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de atividade no GitHub" />
-
-</div>
-
----
-
-## 🎯 Roadmap de aprendizado
-
-Meu objetivo é construir uma base técnica sólida, ampliar meus conhecimentos e explorar diferentes áreas da tecnologia.
-
-<details>
-<summary><strong>☕ Java e Desenvolvimento Back-End</strong></summary>
-
-- [x] Fundamentos de Java
-- [x] Programação Orientada a Objetos
-- [x] Encapsulamento e herança
-- [x] Sobrecarga de métodos e construtores
-- [ ] Aprofundar em Java Collections
-- [ ] Spring Boot
-- [ ] Desenvolvimento de APIs REST
-- [ ] Testes automatizados com JUnit
-- [ ] Maven
-
-</details>
-
-<details>
-<summary><strong>🐧 Linux e Infraestrutura</strong></summary>
-
-- [x] Fundamentos de Linux
-- [ ] Administração de sistemas Linux
-- [ ] Gerenciamento de usuários e permissões
-- [ ] Redes de computadores
-- [ ] Serviços e protocolos de rede
-- [ ] Shell Script
-
-</details>
-
-<details>
-<summary><strong>🔐 Segurança da Informação</strong></summary>
-
-- [ ] Fundamentos de segurança da informação
-- [ ] Fundamentos de redes
-- [ ] Segurança de sistemas Linux
-- [ ] Segurança de aplicações
-- [ ] Fundamentos de hacking ético em ambientes autorizados
-
-</details>
-
-<details>
-<summary><strong>🌐 Desenvolvimento Web</strong></summary>
-
-- [x] HTML
-- [x] CSS
-- [ ] JavaScript
-- [ ] Desenvolvimento de aplicações web
-- [ ] Integração entre Front-End e Back-End
-
-</details>
-
----
-
-## 💡 Minha filosofia
-
-> "A evolução acontece quando o conhecimento se transforma em prática."
-
-```text
-APRENDER → PRATICAR → DESENVOLVER → APRIMORAR → EVOLUIR
-```
-
-Acredito que desenvolver boas soluções exige curiosidade, raciocínio lógico, dedicação e aprendizado constante.
-
-Meu objetivo não é apenas aprender linguagens de programação, mas compreender a tecnologia e utilizá-la para resolver problemas reais.
+<!-- Os cards de stats, streak e gráfico de atividade estão comentados no arquivo SETUP.md.
+     Reative quando os números ajudarem a contar sua história. -->
 
 ---
 
@@ -250,20 +164,16 @@ Meu objetivo não é apenas aprender linguagens de programação, mas compreende
 
 <div align="center">
 
-Estou aberto a oportunidades de estágio, novos aprendizados e conexões com pessoas da área de tecnologia.
+Estou aberto a **oportunidades de estágio em TI** e a conexões com pessoas da área.
 
-<a href="https://github.com/kayke7899-cmd">
-  <img src="https://img.shields.io/badge/GitHub-Conheça_meus_projetos-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/kayke-augusto-473264413">
-  <img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/kayke-augusto-473264413"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Kayke Augusto" /></a>
+<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Kayke Augusto" /></a>
+<a href="https://github.com/kayke7899-cmd"><img src="https://img.shields.io/badge/GitHub-Meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Kayke Augusto no GitHub" /></a>
 
 <br><br>
 
-**Obrigado pela visita!** ⭐
+> "A melhor maneira de aprender programação é transformar conhecimento em projetos."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:151515&height=100&section=footer" width="100%" alt="Rodapé decorativo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B26&height=100&section=footer" alt="" />
 
 </div>
