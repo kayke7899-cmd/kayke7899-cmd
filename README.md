@@ -1,15 +1,9 @@
+
 # 👨‍💻 Kayke Augusto
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Kayke+Augusto!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+%7C+Tecnologia+%7C+Inova%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo." alt="Animação de apresentação" />
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayke7899-cmd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-augusto-473264413)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kayke7899-cmd&style=for-the-badge&color=0077B5&label=VISUALIZAÇÕES)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Kayke+Augusto!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+%7C+Tecnologia+%7C+Inova%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo" alt="Animação de apresentação" />
 
 </div>
 
@@ -90,6 +84,7 @@ Acredito que a evolução profissional acontece através da prática, da curiosi
 Projeto acadêmico desenvolvido em equipe para gerenciamento de um laboratório de enfermagem.
 
 **Funcionalidades:**
+
 - Agendamento de aulas práticas.
 - Solicitação de kits.
 - Controle de estoque.
@@ -97,8 +92,6 @@ Projeto acadêmico desenvolvido em equipe para gerenciamento de um laboratório 
 - Regras de negócio e validações.
 
 **Tecnologias:** Java, POO e UML.
-
-[![Repositório](https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Sistema-de-laboratorio-)
 
 </td>
 <td width="50%">
@@ -108,6 +101,7 @@ Projeto acadêmico desenvolvido em equipe para gerenciamento de um laboratório 
 Aplicação de console para cadastro e gerenciamento de livros.
 
 **Funcionalidades:**
+
 - Cadastro de livros.
 - Controle de estoque.
 - Encapsulamento.
@@ -115,8 +109,6 @@ Aplicação de console para cadastro e gerenciamento de livros.
 - Sobrecarga de métodos.
 
 **Tecnologias:** Java e POO.
-
-[![Repositório](https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Biblioteca)
 
 </td>
 </tr>
@@ -128,6 +120,7 @@ Aplicação de console para cadastro e gerenciamento de livros.
 Aplicação para gerenciamento de funcionários e reajustes salariais.
 
 **Funcionalidades:**
+
 - Cadastro de funcionários.
 - Registro de salários.
 - Aumento por percentual.
@@ -135,8 +128,6 @@ Aplicação para gerenciamento de funcionários e reajustes salariais.
 - Registro de motivos.
 
 **Tecnologias:** Java e POO.
-
-[![Repositório](https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Funcion-rios)
 
 </td>
 <td width="50%">
@@ -146,12 +137,11 @@ Aplicação para gerenciamento de funcionários e reajustes salariais.
 Projetos desenvolvidos para praticar lógica de programação e estruturas de controle.
 
 **Projetos:**
+
 - Sistema de cadastro de usuários.
 - Sistema de acesso administrativo.
 
 **Tecnologia:** Python.
-
-[![Repositório](https://img.shields.io/badge/VER_PROJETOS-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd?tab=repositories)
 
 </td>
 </tr>
@@ -170,16 +160,6 @@ Projetos desenvolvidos para praticar lógica de programação e estruturas de co
 <br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=kayke7899-cmd&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kayke7899-cmd&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" />
 
 </div>
 
@@ -283,3 +263,4 @@ Estou aberto a oportunidades de estágio e a conexões com pessoas da área de t
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:151515&height=100&section=footer" />
 
 </div>
+
