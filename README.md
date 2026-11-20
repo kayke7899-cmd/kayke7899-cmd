@@ -1,9 +1,13 @@
-
 # 👨‍💻 Kayke Augusto
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Kayke+Augusto!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+%7C+Tecnologia+%7C+Inova%C3%A7%C3%A3o;Sempre+aprendendo+e+evoluindo" alt="Animação de apresentação" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Kayke+Augusto!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+Linux+%7C+Tecnologia;Sempre+aprendendo+e+evoluindo." alt="Apresentação animada de Kayke" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kayke7899-cmd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-augusto-473264413)
 
 </div>
 
@@ -16,27 +20,23 @@ public class Desenvolvedor {
 
     String nome = "Kayke Augusto";
     String formacao = "Análise e Desenvolvimento de Sistemas";
-    String foco = "Desenvolvimento de Software";
-    String linguagem = "Java";
-    String objetivo = "Evoluir constantemente na tecnologia";
+    String foco = "Tecnologia e Desenvolvimento";
+    String linguagemPrincipal = "Java";
+    String objetivo = "Estágio na área de TI";
 
     public void apresentar() {
-        System.out.println(
-            "Transformando conhecimento em soluções."
-        );
+        System.out.println("Sempre aprendendo, praticando e evoluindo.");
     }
 }
 ```
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em tecnologia, programação e resolução de problemas.
 
-Atualmente, estou desenvolvendo minhas habilidades em programação, com foco nos fundamentos de Java, Programação Orientada a Objetos, lógica de programação e desenvolvimento de aplicações.
+Atualmente, estou desenvolvendo meus conhecimentos em **Java, lógica de programação e Programação Orientada a Objetos**, além de estudar Linux e fundamentos de infraestrutura e redes.
 
-Também tenho interesse em Linux, infraestrutura, redes de computadores e segurança da informação.
+Também tenho interesse em **segurança da informação e hacking ético**, áreas nas quais pretendo aprofundar meus conhecimentos.
 
-Acredito que a evolução profissional acontece através da prática, da curiosidade e do aprendizado contínuo.
-
-**Objetivo:** conquistar uma oportunidade de estágio em Tecnologia da Informação, aplicar meus conhecimentos e evoluir como profissional.
+Busco uma oportunidade de **estágio em Tecnologia da Informação** para aplicar o que venho aprendendo, adquirir experiência prática e contribuir com o desenvolvimento de soluções.
 
 ---
 
@@ -44,11 +44,11 @@ Acredito que a evolução profissional acontece através da prática, da curiosi
 
 <div align="center">
 
-### Linguagens de programação
+### Linguagens e desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=java,python,html,css&theme=dark" />
 
-### Ferramentas e ambiente
+### Sistemas e ferramentas
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
 
@@ -56,52 +56,50 @@ Acredito que a evolução profissional acontece através da prática, da curiosi
 
 ### Conhecimentos em desenvolvimento
 
+- Lógica de programação.
 - Programação Orientada a Objetos (POO).
 - Encapsulamento, herança e polimorfismo.
 - Sobrecarga de métodos e construtores.
-- Estruturas de dados e coleções.
-- Lógica de programação.
-- Organização de projetos em camadas.
+- Coleções e estruturas de dados.
+- Organização de aplicações em camadas.
 - Modelagem UML e regras de negócio.
-- Versionamento com Git e GitHub.
+- Versionamento de código com Git e GitHub.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-<div align="center">
+Projetos acadêmicos e pessoais desenvolvidos para praticar programação, lógica e organização de aplicações.
 
-### ☕ Java — Desenvolvimento Back-End
-
-</div>
+### ☕ Java
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🧪 Sistema de Gestão de Laboratório
 
 Projeto acadêmico desenvolvido em equipe para gerenciamento de um laboratório de enfermagem.
 
 **Funcionalidades:**
-
 - Agendamento de aulas práticas.
-- Solicitação de kits.
+- Solicitação de kits e materiais.
 - Controle de estoque.
 - Gerenciamento de usuários.
-- Regras de negócio e validações.
+- Validações e regras de negócio.
 
 **Tecnologias:** Java, POO e UML.
 
-</td>
-<td width="50%">
+[![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Sistema-de-laboratorio-)
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 📚 Sistema de Biblioteca
 
 Aplicação de console para cadastro e gerenciamento de livros.
 
 **Funcionalidades:**
-
 - Cadastro de livros.
 - Controle de estoque.
 - Encapsulamento.
@@ -110,41 +108,45 @@ Aplicação de console para cadastro e gerenciamento de livros.
 
 **Tecnologias:** Java e POO.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+[![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Biblioteca)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 👨‍💼 Sistema de Funcionários
 
-Aplicação para gerenciamento de funcionários e reajustes salariais.
+Aplicação de console para cadastro de funcionários e gerenciamento de reajustes salariais.
 
 **Funcionalidades:**
-
 - Cadastro de funcionários.
 - Registro de salários.
-- Aumento por percentual.
-- Aumento por valor fixo.
-- Registro de motivos.
+- Reajustes por percentual.
+- Reajustes por valor fixo.
+- Registro dos motivos dos reajustes.
 
 **Tecnologias:** Java e POO.
 
-</td>
-<td width="50%">
+[![Repositório](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd/Funcion-rios)
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🐍 Projetos em Python
 
 Projetos desenvolvidos para praticar lógica de programação e estruturas de controle.
 
 **Projetos:**
-
 - Sistema de cadastro de usuários.
 - Sistema de acesso administrativo.
 
 **Tecnologia:** Python.
 
-</td>
-</tr>
+[![Repositórios](https://img.shields.io/badge/Ver_projetos-181717?style=for-the-badge&logo=github)](https://github.com/kayke7899-cmd?tab=repositories)
+
+    </td>
+  </tr>
 </table>
 
 ---
@@ -153,23 +155,23 @@ Projetos desenvolvidos para praticar lógica de programação e estruturas de co
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayke7899-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayke7899-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayke7899-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayke7899-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
 
-<br>
+<br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kayke7899-cmd&theme=tokyonight&hide_border=true&locale=pt_BR" />
+<img width="70%" src="https://streak-stats.demolab.com?user=kayke7899-cmd&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
 ---
 
-## 📈 Histórico de contribuições
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayke7899-cmd&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayke7899-cmd&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de atividade no GitHub" />
 
 </div>
 
@@ -177,7 +179,7 @@ Projetos desenvolvidos para praticar lógica de programação e estruturas de co
 
 ## 🎯 Roadmap de aprendizado
 
-Meu objetivo é construir uma base técnica sólida e evoluir progressivamente na área de tecnologia.
+Meu objetivo é construir uma base técnica sólida, ampliar meus conhecimentos e explorar diferentes áreas da tecnologia.
 
 <details>
 <summary><strong>☕ Java e Desenvolvimento Back-End</strong></summary>
@@ -212,7 +214,7 @@ Meu objetivo é construir uma base técnica sólida e evoluir progressivamente n
 - [ ] Fundamentos de segurança da informação
 - [ ] Fundamentos de redes
 - [ ] Segurança de sistemas Linux
-- [ ] Conceitos de segurança de aplicações
+- [ ] Segurança de aplicações
 - [ ] Fundamentos de hacking ético em ambientes autorizados
 
 </details>
@@ -230,15 +232,17 @@ Meu objetivo é construir uma base técnica sólida e evoluir progressivamente n
 
 ---
 
-## 💡 Filosofia de desenvolvimento
+## 💡 Minha filosofia
 
-> "A melhor maneira de aprender programação é transformar conhecimento em projetos."
+> "A evolução acontece quando o conhecimento se transforma em prática."
 
 ```text
-Aprender → Praticar → Desenvolver → Melhorar → Evoluir
+APRENDER → PRATICAR → DESENVOLVER → APRIMORAR → EVOLUIR
 ```
 
-Não busco apenas aprender linguagens de programação, mas compreender como a tecnologia funciona e como utilizá-la para solucionar problemas reais.
+Acredito que desenvolver boas soluções exige curiosidade, raciocínio lógico, dedicação e aprendizado constante.
+
+Meu objetivo não é apenas aprender linguagens de programação, mas compreender a tecnologia e utilizá-la para resolver problemas reais.
 
 ---
 
@@ -246,20 +250,20 @@ Não busco apenas aprender linguagens de programação, mas compreender como a t
 
 <div align="center">
 
-Estou aberto a oportunidades de estágio e a conexões com pessoas da área de tecnologia.
+Estou aberto a oportunidades de estágio, novos aprendizados e conexões com pessoas da área de tecnologia.
 
 <a href="https://github.com/kayke7899-cmd">
-<img src="https://img.shields.io/badge/GitHub-Conheça_meus_projetos-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Conheça_meus_projetos-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/kayke-augusto-473264413">
-<img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-**Obrigado pela visita!**
+**Obrigado pela visita!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:151515&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:151515&height=100&section=footer" width="100%" alt="Rodapé decorativo" />
 
 </div>
