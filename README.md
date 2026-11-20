@@ -263,4 +263,3 @@ Estou aberto a oportunidades de estágio e a conexões com pessoas da área de t
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:151515&height=100&section=footer" />
 
 </div>
-
